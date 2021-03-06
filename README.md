@@ -1,5 +1,10 @@
 # HomeTestChallenge
 
+
+Test design
+------------
+Please refer the Test Design file in this repo.
+
 Automation challenges
 ------------
 Getting Started
